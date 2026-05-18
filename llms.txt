@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/midnight-prayer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Midnight Prayer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-prayer/) |
+| **Get License** | [Music Rights & Licensing for Midnight Prayer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-prayer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1581)
 
 ---
 
