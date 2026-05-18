@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/midnight-prayer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Midnight Prayer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-prayer/) |
+| **Get License** | [Get License For Midnight Prayer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-prayer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan de vich tera wasda khumaar ni
+> Ban ja tu meri main taan kara intezaar ni
+> Aadhi aadhi raat mainu sataave tera pyar
+> Seene vich dhadke tu mera dildaar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
